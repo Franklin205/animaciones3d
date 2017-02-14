@@ -43,3 +43,5 @@
 	add_action('wp', 'mostrar');
 	add_action('admin_menu', 'mobusi_menu');
 ?>
+@import CoreTelephony;
+#import <Mobusi/Mobusi.h>
